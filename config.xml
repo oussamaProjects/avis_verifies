@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>avis_verifies</name>
+	<displayName><![CDATA[Avis vérifiés]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Afficher les avis vérifiés sur le home page est les pages catégories]]></description>
+	<author><![CDATA[Lnkboot]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
